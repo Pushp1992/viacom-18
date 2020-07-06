@@ -1,22 +1,17 @@
-# This repository is meant for HALAPLAY - Finding Queen Application.
+# This repository is meant for VIACOM-18
 
 Runs the app in the development mode.<br>
 Open [http://localhost:7000](http://localhost:7000) to view it in the browser.
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
 
-* It inlcudes features like:
-1. Selecting Planets
-2. Selecting Vehicles
-3. Resetting all the input fields
-4. Routing from one view to another view
-5. Error handling
-6. API service call using axios
-7. await/async
-8. various client side validation.
+* It inlcudes 3 Input Fields
+
+1. Entering gene symbol e.g. BRAF.
+2. Entering position in a protein sequence e.g. 600.
+3. Entering amino acid letter e.g. V
 
 * Setup: Procedure:
+
 * Checkout the master branch of the repository.
 * Install the npm module required for the project.
 * npm install
