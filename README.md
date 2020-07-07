@@ -53,7 +53,7 @@ On prod machine:
 
 `npm run prod`
 
-# Server is created to handle the browser's CORS issue while making API calls for the HALAPLAY services
+# Server is created to handle the browser's CORS issue while making API calls for the ENSAMBLE services
 
 
 # Config changes
